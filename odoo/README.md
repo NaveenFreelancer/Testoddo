@@ -4,11 +4,6 @@ Java environment
 Maven
 TestNg
 
-elow configuration 
-
-Note: Configure web-driver path
-	Please download the required Chrome driver based on machine(Macbook, Windows and Linux) under corresponding folder (src/main/resources/drivers)
-
 	
 Project is ready to run. Execute following commands and enjoy the automatic web-driver test.
 
